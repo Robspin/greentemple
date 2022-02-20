@@ -7,7 +7,7 @@ const Home: NextPage = () => {
 
   return (
     <Layout>
-      <Header title={'GreenTemple'} subTitle={'Coding - Markets - And more'} text={text} />
+      <Header title={'GreenTemple'} subTitle={'Creative coding, markets and more'} text={text} />
     </Layout>
   )
 }
